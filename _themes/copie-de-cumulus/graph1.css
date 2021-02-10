@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(acdrule.gif);
+	list-image-1: url(acdbull1.gif);
+	list-image-2: url(acdbull2.gif);
+	list-image-3: url(acdbull3.gif);
+	nav-banner-image: url(soleil_011.gif);
+	navbutton-horiz-normal: url(acdhb.gif);
+	navbutton-horiz-hovered: url(acdhbh.gif);
+	navbutton-horiz-pushed: url(acdhbs.gif);
+	navbutton-vert-normal: url(acdvb.gif);
+	navbutton-vert-hovered: url(acdvbh.gif);
+	navbutton-vert-pushed: url(acdvbs.gif);
+	navbutton-home-normal: url(acdhome.gif);
+	navbutton-home-hovered: url(acdhomeh.gif);
+	navbutton-home-pushed: url(acdhome.gif);
+	navbutton-next-normal: url(acdnext.gif);
+	navbutton-next-hovered: url(acdnexth.gif);
+	navbutton-next-pushed: url(acdnext.gif);
+	navbutton-prev-normal: url(acdprev.gif);
+	navbutton-prev-hovered: url(acdprevh.gif);
+	navbutton-prev-pushed: url(acdprev.gif);
+	navbutton-up-normal: url(acdup.gif);
+	navbutton-up-hovered: url(acduph.gif);
+	navbutton-up-pushed: url(acdup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(acdbull1.gif);
+}
+ul ul
+{
+	list-style-image: url(acdbull2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(acdbull3.gif);
+}

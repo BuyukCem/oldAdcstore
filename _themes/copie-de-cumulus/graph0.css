@@ -1,0 +1,94 @@
+.mstheme
+{
+	separator-image: url(cdrule.gif);
+	list-image-1: url(cdbull1.gif);
+	list-image-2: url(cdbull2.gif);
+	list-image-3: url(cdbull3.gif);
+	nav-banner-image: url(cdbnr.gif);
+	navbutton-horiz-normal: url(cdhb.gif);
+	navbutton-horiz-hovered: url(cdhb.gif);
+	navbutton-horiz-pushed: url(cdshb.gif);
+	navbutton-vert-normal: url(cdvb.gif);
+	navbutton-vert-hovered: url(cdvb.gif);
+	navbutton-vert-pushed: url(cdsvb.gif);
+	navbutton-home-normal: url(cdhome.gif);
+	navbutton-home-hovered: url(cdhome.gif);
+	navbutton-home-pushed: url(cdhome.gif);
+	navbutton-next-normal: url(cdnext.gif);
+	navbutton-next-hovered: url(cdnext.gif);
+	navbutton-next-pushed: url(cdnext.gif);
+	navbutton-prev-normal: url(cdprev.gif);
+	navbutton-prev-hovered: url(cdprev.gif);
+	navbutton-prev-pushed: url(cdprev.gif);
+	navbutton-up-normal: url(cdup.gif);
+	navbutton-up-hovered: url(cdup.gif);
+	navbutton-up-pushed: url(cdup.gif);
+}
+.mstheme-bannertxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 6;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-horiz-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-vert-navtxt
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 2;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxthome
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtnext
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtprev
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+.mstheme-navtxtup
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: rgb(0, 0, 0);
+	font-size: 1;
+	font-style: normal;
+	font-weight: normal;
+}
+ul
+{
+	list-style-image: url(cdbull1.gif);
+}
+ul ul
+{
+	list-style-image: url(cdbull2.gif);
+}
+ul ul ul
+{
+	list-style-image: url(cdbull3.gif);
+}
